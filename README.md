@@ -25,3 +25,12 @@ The ranking model will be hosted on a cloud server so it can be **accessed remot
 - _Hyperparameter fine tuning:_ find optimal parameters for selected models and settle on the best one;
 - _Business performance:_ evaluate how our model performs and answer the questions proposed by the CEO;
 - _Model deployment into production:_ make our model available to the company.
+
+# **Results Preview:**
+
+![Testing gain and lift](https://user-images.githubusercontent.com/76906524/130846420-517ba554-4ace-4ab1-a5ca-0a8fd19a0d93.png)
+
+
+- By calling 20,000 customers ranked with our model, the amount of interested customers reached would be over **3 times** what a randomized list would reach;
+- By increasing the number of calls to 40,000 customers, the amount of interested customers reached would be over **2,5 times** what a randomized list would reach;
+- To get to the goal of contacting 80% of interested customers out of over 127,000 people, a little more than **39,000** calls would be enough.
