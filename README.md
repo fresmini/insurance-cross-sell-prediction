@@ -10,7 +10,7 @@
 # **Solution Planning:**
 
 ### **Proposed Solution:** 
-We're building a machine learning model that will **rank customers** based on their estimated probability of being interested in acquiring vehicle insurance. Model input will be a **list of customers** and their known features. Once the predictions are done, the **probabilities will be added to the list** as an extra column. <br>
+We're building a machine learning model that will **rank customers** based on their estimated probability of being interested in acquiring vehicle insurance. Model input will be a **list of customers** and their known attributes. Once the predictions are done, the **probabilities will be added to the list** as an extra column. <br>
 The ranking model will be hosted on a cloud server so it can be **accessed remotely at any time**.
 
 ### **Project Walkthrough:**
